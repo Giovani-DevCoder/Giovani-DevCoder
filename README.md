@@ -1,5 +1,5 @@
 <!-- Encabezado con estilo -->
-<h1 align="center">¡Bienvenid@ a mi mundo digital! 👾</h1>
+<h1 align="center">¡Bienvenid@! 👾</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200">
