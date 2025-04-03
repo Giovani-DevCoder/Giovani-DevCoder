@@ -9,16 +9,14 @@
   <b>🚀 Backend Developer | 🕹️ Gamer Enthusiast | 🛠️ Builder of Scalable Systems</b>
 </p>
 
----
-
 ## 🌟 Sobre mí
 🔹 Apasionado del desarrollo backend y la construcción de sistemas eficientes.  
 🔹 Especializado en <b>Node.js, Python, MongoDB y Arquitecturas Escalables</b>.  
 🔹 Actualmente trabajando en un <b>sitio web sobre gaming</b>.  
 
----
 
 ## 🛠️ Tech Stack
+
 
 ### 💻 Lenguajes y Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -35,7 +33,6 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
 
 ## 📌 Últimos Proyectos
 
@@ -45,19 +42,6 @@
 
 🚀 [Sistema de Autenticación Segura](https://github.com/tuusuario/auth-system) - Autenticación con JWT y OAuth 2.0.
 
----
-
-## 📈 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giovani-DevCoder&show_icons=true&theme=radical" width="50%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giovani-DevCoder&theme=radical" width="50%">
-</p>
-
----
 
 ## 📬 ¡Hablemos!
 
