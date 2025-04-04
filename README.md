@@ -30,11 +30,11 @@
 
 ## 📌 Últimos Proyectos
 
-🎮 [Gaming Portfolio Website](https://github.com/tuusuario/gaming-portfolio) - Un sitio web para mostrar mi amor por los videojuegos y mi habilidad en backend.  
+🎮 [Fullstack Portfolio Website](https://github.com/Giovani-DevCoder/Portfolio) - Un sitio web para presentar mis habilidades en el desarrollo.  
 
-📂 [API RESTful de Juegos](https://github.com/tuusuario/game-api) - Una API optimizada para gestionar bases de datos de videojuegos.  
+📂 [E-commerce](https://github.com/Giovani-DevCoder/GioDev-eCommerce) - Pagina profesional de articulos tecnologicos.  
 
-🚀 [Sistema de Autenticación Segura](https://github.com/tuusuario/auth-system) - Autenticación con JWT y OAuth 2.0.
+🚀 [Sistema de transcripcion](https://github.com/Giovani-DevCoder/Transcriptor) - Transcriptor de audios mp3 en archivos docx
 
 
 ## 📬 ¡Hablemos!
