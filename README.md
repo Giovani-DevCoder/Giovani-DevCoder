@@ -36,11 +36,13 @@
 
 🚀 [Sistema de transcripcion](https://github.com/Giovani-DevCoder/Transcriptor) - Transcriptor de audios mp3 en archivos docx
 
+[Clausely](https://github.com/Giovani-DevCoder/Clausely) - Proyecto Hackathon TRAE IDE.
+
 
 ## 📬 ¡Hablemos!
 
 💌 **Email:** [danisonpadron2022@gmail.com](danisonpadron2022@gmail.com)  
-💼 **LinkedIn:** [https://www.linkedin.com/in/giovani-linares-7425b2339/](https://www.linkedin.com/in/giovani-linares-7425b2339/)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/giovani-linares/](https://www.linkedin.com/in/giovani-linares-7425b2339/)  
 
 🌟 _"2025."_  
 
