@@ -36,7 +36,7 @@
 
 🚀 [Sistema de transcripcion](https://github.com/Giovani-DevCoder/Transcriptor) - Transcriptor de audios mp3 en archivos docx
 
-[Clausely](https://github.com/Giovani-DevCoder/Clausely) - Proyecto Hackathon TRAE IDE.
+🌐 [Clausely](https://github.com/Giovani-DevCoder/Clausely) - Proyecto Hackathon TRAE IDE.
 
 
 ## 📬 ¡Hablemos!
