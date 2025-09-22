@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>🚀 Backend Developer | 🕹️ Gamer Enthusiast | 🛠️ Builder of Scalable Systems</b>
+  <b>🚀 Backend Developer | 🕹️ Godot Enthusiast | 🛠️ Builder of Scalable Systems</b>
 </p>
 
 ## 🌟 Sobre mí
