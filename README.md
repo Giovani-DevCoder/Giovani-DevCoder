@@ -12,7 +12,6 @@
 ## 🌟 Sobre mí
 🔹 Apasionado del desarrollo backend y la construcción de sistemas eficientes.  
 🔹 Especializado en <b>Node.js, Python, MongoDB y Arquitecturas Escalables</b>.  
-🔹 Actualmente trabajando en un <b>sitio web sobre gaming</b>.  
 
 
 ## 🛠️ Tech Stack
