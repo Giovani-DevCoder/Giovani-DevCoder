@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200">
-</p>
-
-<p align="center">
-  <b>🚀 Un dev tonto</b>
+  <b>🚀 Bienvenido al perfil de un dev tonto</b>
 </p>
 
 
