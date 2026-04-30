@@ -1,5 +1,5 @@
 <p align="center">
-  <b>🚀 Bienvenido al perfil de un dev tonto</b>
+  <b>🚀 Hola, soy un dev tonto </b>
 </p>
 
 
